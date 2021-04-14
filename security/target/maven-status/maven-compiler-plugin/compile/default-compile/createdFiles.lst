@@ -1,0 +1,3 @@
+com\cloud\DemoApplication.class
+com\cloud\controller\RouterController.class
+com\cloud\config\SecurityConfig.class
